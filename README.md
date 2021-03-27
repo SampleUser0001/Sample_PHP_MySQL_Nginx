@@ -1,5 +1,5 @@
-# Sample_PHP_MySQL_Nginx
-PHP, MySQL, Nginxのサンプル
+# Template_PHP_MySQL_Nginx
+PHP, MySQL, Nginxのテンプレート
 
 ## 起動
 
