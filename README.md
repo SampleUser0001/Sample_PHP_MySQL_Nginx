@@ -1,5 +1,11 @@
 # Template_PHP_MySQL_Nginx
+
 PHP, MySQL, Nginxのテンプレート
+
+## 準備
+
+1. ```mysql/sample.env```をコピーし、```mysql/.env```ファイルを作成する。
+2. ```mysql/.env```ファイルを編集する。
 
 ## 起動
 

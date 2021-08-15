@@ -1,2 +1,4 @@
 # MySQL
 /mysql/data/*
+/mysql/.env
+
